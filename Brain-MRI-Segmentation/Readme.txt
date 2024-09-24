@@ -1,0 +1,1 @@
+this a Brain-MRI-Segmentation with pytourch to segment the tumor in mri-barin the is taken from kaggel and make some updates to present the out to train in models and dealing with pytourch  
